@@ -18,7 +18,7 @@ image: assets/images/IMG_2838.pdf
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "If Beale Street Could Talk  — James Baldwin"
   - label: Building
     text: "A small Raspberry Pi sensor logging dashboard"
   - label: Wondering
