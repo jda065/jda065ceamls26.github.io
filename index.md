@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like things that fly"
 
 linkedin: https://www.linkedin.com/in/example
-image: assets/images/IMG_2838.tiff.pdf
+image: assets/images/IMG_2838.pdf
 
 # A "Currently" block — three short status lines for the home page.
 currently:
