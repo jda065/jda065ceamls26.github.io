@@ -29,10 +29,10 @@ about:
 
   
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: assets/images/IMG_0755.pdf
       caption: A 
-    - image: /assets/images/gallery-2.svg
+    - image: /assets/images/IMG_3051.pdf
       caption: A meal I made
-    - image: /assets/images/gallery-3.svg
+    - image: assets/images/1000094490.PNG
       caption: Hanging out with family.
 ---
