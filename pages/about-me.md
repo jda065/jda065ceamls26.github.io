@@ -13,8 +13,7 @@ about:
 
     My interests focus on aerospace engineering, data science, and machine learning. I am particularly interested in how technology can be      used to solve real-world problems, from improving transportation and engineering systems to predicting health and environmental risks       through data-driven approaches.
     
-    Outside of academics, I enjoy boxing, going to the gym, and working on personal projects that help m
-
+    Outside of academics, I enjoy boxing, going to the gym, and working on personal projects that help me develop my programming and            research skills. I also enjoy collaborating with others, exploring new technologies, and challenging myself through hands-on learning       experiences.
   hobbies:
     - icon: 👬
       title: Spending time with Friends
