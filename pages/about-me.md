@@ -16,21 +16,18 @@ about:
     Outside of academics, I enjoy boxing, going to the gym, and working on personal projects that help m
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 💪🏾
+      title: Gym
+      description: I enjoy pushing myself in the gym every day because it is a good reset.
+    - icon: ⏲️
+      title: Cooking/Baking
+      description: I enjoy making food in my pastime because it helps me relax and take my mind off things.
+    - icon: 📺
+      title: TV
+      description: I enjoy relaxing with TV shows, documentaries, and movies in my free time.
+
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
+    
       caption: Hanging out with friends after class.
 ---
