@@ -11,12 +11,9 @@ about:
   bio: |
     Hi! I'm Jaren, a Mechatronics Engineering student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
-
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    My interests focus on aerospace engineering, data science, and machine learning. I am particularly interested in how technology can be      used to solve real-world problems, from improving transportation and engineering systems to predicting health and environmental risks       through data-driven approaches.
+    
+    Outside of academics, I enjoy boxing, going to the gym, and working on personal projects that help m
 
   hobbies:
     - icon: 🎨
