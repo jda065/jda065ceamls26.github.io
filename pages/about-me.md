@@ -16,9 +16,9 @@ about:
     Outside of academics, I enjoy boxing, going to the gym, and working on personal projects that help m
 
   hobbies:
-    - icon: 💪🏾
-      title: Gym
-      description: I enjoy pushing myself in the gym every day because it is a good reset.
+    - icon: 👬
+      title: Spending time with Friends
+      description: I enjoy spending quality time with friends and family.
     - icon: ⏲️
       title: Cooking/Baking
       description: I enjoy making food in my pastime because it helps me relax and take my mind off things.
@@ -27,7 +27,12 @@ about:
       description: I enjoy relaxing with TV shows, documentaries, and movies in my free time.
 
 
+  
   gallery:
-    
-      caption: Hanging out with friends after class.
+    - image: /assets/images/gallery-1.svg
+      caption: A 
+    - image: /assets/images/gallery-2.svg
+      caption: A meal I made
+    - image: /assets/images/gallery-3.svg
+      caption: Hanging out with family.
 ---
