@@ -24,17 +24,17 @@ approach: |
           Present the findings through charts, tables, and a clear explanation of which environmental factors were most connected to                  respiratory risk. Share the results in a final report, presentation slides, and visual summaries that can be understood by both             technical and non-technical audiences.
   
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+          I want to build an operational Machine Learning Prototype to analyze demographic and environmental Data to estimate Respiratory             Health Risks in Urban Areas, i.e. in particular in Baltimore by the End of the Program. In addition to this, I also want to                 create a Poster summarizing the Project's Objectives, Methods, Findings and Potential Practical Applications.
+
+          In addition to the above mentioned Prototype and Poster, I would like to contribute to a Written Research Report that describes             the Process of collecting the Data; the Development of the Model(s); and the Evaluation Results. The Artifacts described here               will help people to have a better understanding how Machine Learning could be used to solve Public Health Problems and could                represent a Starting Point for Future Work related with Predicting Respiratory Diseases and Monitoring Environmental Health.
 
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Amara Eze
-  linkedin: (https://www.linkedin.com/in/amara-eze-569b59259/?skipRedirect=true)
+  linkedin: https://www.linkedin.com/in/amara-eze-569b59259
 
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
-  linkedin: (https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/)
+  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
 ---
