@@ -7,7 +7,7 @@ about:
   name: Jaren Allen
   role: Sophmore, Mechatronics Engineering
   image: assets/images/IMG_0973.pdf
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/jaren-allen-057b45411/
   bio: |
     Hi! I'm Jaren, a Mechatronics Engineering student in the CEAMLS SAIRI Summer Research program.
 
