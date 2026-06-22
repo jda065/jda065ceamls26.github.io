@@ -7,7 +7,7 @@ graduate_mentor:
   name: Amara Eze
   title: PhD Candidate, Mathematics
   image: assets/images/Amara.jpeg
-  website: (https://www.linkedin.com/in/amara-eze-569b59259/?skipRedirect=true)
+  website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
          Amara is a PhD Candidate in Mathematics at Morgan State University working on non-local dynamical systems and algorithms for                nonlinear optimization. Her work connects numerical analysis, dynamical systems, fixed point theory, fractional calculus, machine           learning, and data science, with applications in image recovery, machine learning, and optimal control.
 
@@ -17,7 +17,7 @@ faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Professor, Mathematics
   image: assets/images/Olaniyi.jpeg
-  website: (https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/)
+  website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
             Dr. Olaniyi Iyiola is a Professor of Mathematics at Morgan State University whose research spans nonlinear optimization,                   dynamical systems, fractional differential equations, machine learning, data science, and computational mathematics. His work               focuses on developing innovative mathematical and algorithmic methods with applications in artificial intelligence, biomedical                  research, image processing, and complex real-world systems.
             Through his research group, he has guided numerous undergraduate and graduate researchers, helping them develop strong                       foundations in applied mathematics, computational modeling, machine learning, and scientific research. His mentorship has                 earned recognition from both students and Morgan State University's Department of Mathematics.
