@@ -4,7 +4,7 @@ title: Home
 display_name: Jaren Allen                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Did not come this far to come this far"
+motto: "Blessed to see my blessings unfold"
 
 quick_facts:
   - "🎓 Sophmore, Mechatronics Engineering"
@@ -12,8 +12,8 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 I like things that fly"
 
-linkedin: https://www.linkedin.com/in/example
-image: assets/images/IMG_2838.pdf
+linkedin: https://www.linkedin.com/in/jaren-allen-057b45411/
+image: assets/images/Jaren.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
